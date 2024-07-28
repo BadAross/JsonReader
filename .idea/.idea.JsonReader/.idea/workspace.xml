@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccb23407-dd81-4f14-b342-25ae0299faf6" name="Changes" comment="" />
+    <list default="true" id="ccb23407-dd81-4f14-b342-25ae0299faf6" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JsonReader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JsonReader/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/Microsoft/Win32/SafeHandles/SafeFileHandle.Windows.cs" root0="SKIP_HIGHLIGHTING" />
@@ -36,48 +41,52 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7f57eabcbac458cf4626a4c98a761414f5ed3895280f4d415e5cf53cc2abf/SimpleWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d056b4e3b34cd15e21dec611d5b5bbaf85e1f15b445f4e6b3e4dc6634d649042/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f536671e825030c7f17fbf3f75511651c281f2429edc8fd6ea660418f825949/BeforeAndAfterTestCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JsonReader/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2jYDfm9WFc2HnFcSnehOAqVBqC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.JsonReader.executor&quot;: &quot;Run&quot;,
-    &quot;110f2c5b-3212-4c6c-9fec-84c27dde42cb.executor&quot;: &quot;Debug&quot;,
-    &quot;23943128-2584-44c4-b125-d2d4551bd2d9.executor&quot;: &quot;Debug&quot;,
-    &quot;49b03aa0-dc2e-4046-aa51-b4fe3ffc742d.executor&quot;: &quot;Debug&quot;,
-    &quot;54a664af-1ab5-482f-8978-0f25f4100b1f.executor&quot;: &quot;Debug&quot;,
-    &quot;56b2a47c-ce79-4e9f-9485-bc68b7fa53f3.executor&quot;: &quot;Debug&quot;,
-    &quot;66d3c665-8938-4d8c-8540-c60393f8c933.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ae36f655-6f4c-4b64-9ff1-5339baec8017.executor&quot;: &quot;Debug&quot;,
-    &quot;b91cd4be-a6a4-4a34-bd63-f8c4ff216269.executor&quot;: &quot;Debug&quot;,
-    &quot;db34c982-47c5-4e8d-afb8-0e9b6f87c086.executor&quot;: &quot;Debug&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.JsonReader.executor": "Run",
+    "110f2c5b-3212-4c6c-9fec-84c27dde42cb.executor": "Debug",
+    "23943128-2584-44c4-b125-d2d4551bd2d9.executor": "Debug",
+    "49b03aa0-dc2e-4046-aa51-b4fe3ffc742d.executor": "Debug",
+    "54a664af-1ab5-482f-8978-0f25f4100b1f.executor": "Debug",
+    "56b2a47c-ce79-4e9f-9485-bc68b7fa53f3.executor": "Debug",
+    "66d3c665-8938-4d8c-8540-c60393f8c933.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ae36f655-6f4c-4b64-9ff1-5339baec8017.executor": "Debug",
+    "b91cd4be-a6a4-4a34-bd63-f8c4ff216269.executor": "Debug",
+    "db34c982-47c5-4e8d-afb8-0e9b6f87c086.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\xac32\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\xac32\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\xac32\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\xac32\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\xac32\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\xac32\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="JsonReader" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -115,15 +124,39 @@
       <workItem from="1722093550598" duration="9180000" />
       <workItem from="1722104592593" duration="7992000" />
       <workItem from="1722165302199" duration="15208000" />
+      <workItem from="1722181678598" duration="1064000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1722181977677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722181977677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -131,14 +164,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/JsonReader/Processors/EmployeeCommandProcessor.cs</url>
           <line>11</line>
-          <properties documentPath="D:\Работа\Тестовые\JsonReader\JsonReader\JsonReader\EmployeeCommandProcessor.cs" containingFunctionPresentation="Method 'Run'">
-            <startOffsets>
-              <option value="324" />
-            </startOffsets>
-            <endOffsets>
-              <option value="351" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\Работа\Тестовые\JsonReader\JsonReader\JsonReader\EmployeeCommandProcessor.cs" containingFunctionPresentation="Method 'Run'" />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
