@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonReader", "JsonReader\JsonReader.csproj", "{A1D9CE36-0D22-46C1-A308-CE892688E520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonReader.Tests", "JsonReader.Tests\JsonReader.Tests.csproj", "{F53AC457-72B6-4842-8C55-346EAA59F911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D9CE36-0D22-46C1-A308-CE892688E520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D9CE36-0D22-46C1-A308-CE892688E520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D9CE36-0D22-46C1-A308-CE892688E520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D9CE36-0D22-46C1-A308-CE892688E520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53AC457-72B6-4842-8C55-346EAA59F911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53AC457-72B6-4842-8C55-346EAA59F911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53AC457-72B6-4842-8C55-346EAA59F911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53AC457-72B6-4842-8C55-346EAA59F911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

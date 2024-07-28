@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Aspose.Cells" Version="24.7.0" />
+      <PackageReference Include="Moq" Version="4.20.70" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="Nunit.Framework.TestCaseStorage" Version="1.0.1" />
+      <PackageReference Include="OneOf" Version="3.0.271" />
+    </ItemGroup>
+
+</Project>
